@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @azadnsu
 - 👀 I’m interested in ...Test automation
-- 🌱 I’m currently learning ...Node
+- 🌱 I’m currently learning ...Typescript
 - 💞️ I’m looking to collaborate on ...automation
 - 📫 How to reach me ...azadnsu@gmail.com
 
