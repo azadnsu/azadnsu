@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @azadnsu
+- 👋 Hi, I’m Azad
 - 👀 I’m interested in ...Test automation
-- 🌱 I’m currently learning ...Typescript
-- 💞️ I’m looking to collaborate on ...automation
+- 🌱 I’m currently learning ...React.js 
+- 💞️ I’m looking to collaborate on ...frontend development & automation
 - 📫 How to reach me ...azadnsu@gmail.com
 
 <!---
